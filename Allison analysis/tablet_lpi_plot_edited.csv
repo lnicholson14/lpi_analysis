@@ -1,0 +1,682 @@
+,Plot ID,Plot Type,Focal Species.x,parent_global_id_PLOT,x,y,Survey Notes,Plot Location.y,Top Canopy,Ground Cover,Transect Type
+1,test1,DISES,Quercus emoryi,ba243634-c90f-4a48-8a96-74c869017d51,-111.8315874,34.89383321,NA,12,NA,NA,NA
+2,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,so,north
+3,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,wl,north
+4,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,north
+5,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,north
+6,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,north
+7,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,north
+8,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,north
+9,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,north
+10,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,wl,north
+11,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,north
+12,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,wl,north
+13,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,north
+14,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,wl,north
+15,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,so,north
+16,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,so,north
+17,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,north
+18,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,north
+19,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,so,north
+20,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,north
+21,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,so,north
+22,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,so,north
+23,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,so,north
+24,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,m l bc,north
+25,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,north
+26,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,north
+27,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,r,east
+28,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+29,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+30,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+31,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,wl,east
+32,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+33,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,east
+34,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+35,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+36,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+37,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+38,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+39,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+40,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+41,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+42,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+43,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,east
+44,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,t,hl,east
+45,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+46,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+47,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+48,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,sh,east
+49,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,wl,east
+50,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+51,DC075,DISES,Quercus emoryi,f6b260fe-8f57-430b-be8b-228847ff5ac5,-111.8318734,34.89328629,lacking non veg option for LPI: trees = no veg for this survey,12,s,hl,east
+52,EOCTRI PLOT 1,DISES,Quercus emoryi,50d1fdc7-e822-4551-8e74-5baf9f39f98e,-111.8330318,34.89317122,EOCTRI Emory locations,12,NA,NA,NA
+53,EOCTRI PLOT 8,DISES,Quercus emoryi,2e54a4b1-d835-444f-8ad2-70c5e5870b58,-111.8315888,34.89383721,NA,12,NA,NA,NA
+54,EOCTRI PLOT 9,DISES,Quercus emoryi,a650c153-ee51-46f6-ba70-16ecd68d929e,-111.8326536,34.89262749,NA,12,NA,NA,NA
+55,EOCTRI PLOT 6,DISES,Quercus emoryi,240c0600-317c-4201-966e-e4a7b16ab892,-111.832372,34.89332475,NA,12,NA,NA,NA
+56,EOCTRI PLOT 5,DISES,Quercus emoryi,99a8b65d-e55d-4ac8-9aa4-a83e40d56a65,-111.8306249,34.89546898,NA,NA,np,su,east
+57,EOCTRI PLOT 5,DISES,Quercus emoryi,99a8b65d-e55d-4ac8-9aa4-a83e40d56a65,-111.8306249,34.89546898,NA,NA,pf,pg,north
+58,EOCTRI PLOT 5,DISES,Quercus emoryi,99a8b65d-e55d-4ac8-9aa4-a83e40d56a65,-111.8306249,34.89546898,NA,NA,pf,hl,north
+59,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,pg,north
+60,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+61,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,north
+62,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,north
+63,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,hl,north
+64,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,north
+65,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,m l bc,north
+66,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,m l bc,north
+67,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+68,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,wl,north
+69,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,north
+70,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,m l bc,north
+71,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+72,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,hl,north
+73,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+74,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,hl,north
+75,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+76,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,hl,north
+77,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,s,hl,north
+78,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+79,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+80,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+81,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+82,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+83,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,north
+84,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,hl,east
+85,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,hl,east
+86,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,east
+87,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+88,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,east
+89,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,east
+90,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,east
+91,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+92,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+93,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,so,east
+94,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+95,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,hl,east
+96,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,r,east
+97,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,so,east
+98,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+99,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,east
+100,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,pg,so,east
+101,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,east
+102,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+103,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+104,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,east
+105,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+106,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,so,east
+107,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+108,DC071,DISES,Quercus emoryi,bbd9191a-5f68-40c5-a271-f4dece77cc34,-111.9135788,34.91670958,at EOCTRI plot 4,12,t,hl,east
+109,DN034,DISES,Quercus emoryi,d4cd079f-327a-4c74-a3d9-de36e3668c65,-111.1572493,34.28026545,lots of roadside trash,7,NA,NA,NA
+110,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+111,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+112,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+113,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+114,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+115,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+116,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,wl,north
+117,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,hl,north
+118,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,wl,north
+119,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+120,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+121,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,hl,north
+122,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+123,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+124,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,wl,north
+125,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+126,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+127,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,north
+128,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+129,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+130,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+131,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,r,north
+132,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+133,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+134,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,north
+135,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,br,east
+136,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,br,east
+137,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,east
+138,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,east
+139,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,east
+140,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,east
+141,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,br,east
+142,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,br,east
+143,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,br,east
+144,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,br,east
+145,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,hl,east
+146,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,east
+147,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,hl,east
+148,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,hl,east
+149,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,hl,east
+150,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,pf,hl,east
+151,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,s,so,east
+152,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,br,east
+153,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,so,east
+154,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,pg,hl,east
+155,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,pg,hl,east
+156,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,east
+157,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,hl,east
+158,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,r,east
+159,DN050,DISES,Quercus emoryi,91bb2981-3846-4721-b2db-b3e1766dcfe5,-111.5065642,34.46046176,NA,10,np,so,east
+160,DN002,DISES,Quercus emoryi,63594c14-c5ef-40a7-8c79-7a68f56dbbbb,-111.5306473,34.3902886,NA,7,NA,NA,NA
+161,DN018,DISES,Quercus emoryi,14b6b5f5-7ea2-45c3-81be-7ac5ad2a18f7,-111.2503374,34.33895931,NA,NA,np,su,east
+162,DN018,DISES,Quercus emoryi,14b6b5f5-7ea2-45c3-81be-7ac5ad2a18f7,-111.2503374,34.33895931,NA,NA,pf,pg,north
+163,DN018,DISES,Quercus emoryi,14b6b5f5-7ea2-45c3-81be-7ac5ad2a18f7,-111.2503374,34.33895931,NA,NA,pf,hl,north
+164,DN018,DISES,Quercus emoryi,6b7cf789-aedb-42b5-af2c-5fa08832c176,-111.2380622,34.34781272,NA,7,NA,NA,NA
+165,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+166,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+167,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+168,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,pg,hl,east
+169,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,east
+170,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+171,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+172,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+173,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+174,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,pg,hl,east
+175,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,east
+176,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,east
+177,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,east
+178,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+179,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+180,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+181,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,pg,east
+182,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+183,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+184,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,east
+185,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+186,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,wl,east
+187,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,pg,hl,east
+188,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,east
+189,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,pg,hl,east
+190,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,north
+191,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+192,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+193,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,north
+194,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,pg,north
+195,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+196,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,r,north
+197,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,pg,north
+198,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,north
+199,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+200,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,pg,hl,north
+201,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,r,north
+202,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+203,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+204,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+205,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,north
+206,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,so,north
+207,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,pg,hl,north
+208,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+209,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+210,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+211,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+212,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+213,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+214,DN016,DISES,Quercus emoryi,88ce32e6-21b4-47d3-81c9-71e74e78456e,-110.5534597,31.55117159,NA,9,np,hl,north
+215,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+216,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+217,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,af,so,north
+218,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+219,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+220,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+221,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+222,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+223,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,af,hl,north
+224,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+225,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,so,north
+226,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+227,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+228,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,so,north
+229,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,pg,hl,north
+230,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,r,north
+231,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+232,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+233,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,pg,pg,north
+234,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,pg,hl,north
+235,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,pg,pg,north
+236,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+237,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,r,north
+238,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+239,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,north
+240,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,r,east
+241,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,r,east
+242,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+243,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,so,east
+244,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,pg,hl,east
+245,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+246,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,r,east
+247,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+248,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,wl,east
+249,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,pf,hl,east
+250,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,pg,hl,east
+251,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+252,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,wl,east
+253,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+254,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,wl,east
+255,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+256,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,r,east
+257,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+258,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+259,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,so,east
+260,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,t,east
+261,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+262,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+263,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,hl,east
+264,DN060,DISES,Quercus emoryi,abc23a7d-ddf0-4747-8c18-1efb3b21e09f,-110.5190479,31.56919653,NA,9,np,r,east
+265,DN024,DISES,Quercus emoryi,c94eaec0-a8e7-4d07-98df-e84b84f0a91b,-110.7489484,31.35443879,NA,9,NA,NA,NA
+266,DN066,DISES,Quercus emoryi,46ade7d7-c33d-4fa0-93ec-9b7048a7d8d9,-110.6660854,31.40834394,NA,9,NA,NA,NA
+267,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+268,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+269,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,pg,hl,north
+270,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,so,north
+271,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+272,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+273,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+274,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,pg,hl,north
+275,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,pg,hl,north
+276,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+277,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,north
+278,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,north
+279,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,so,north
+280,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,north
+281,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+282,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+283,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,pg,so,north
+284,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+285,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,north
+286,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+287,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+288,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,pg,hl,north
+289,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+290,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,so,north
+291,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,north
+292,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+293,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,east
+294,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+295,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,east
+296,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+297,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,pg,hl,east
+298,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+299,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+300,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+301,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+302,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+303,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,wl,east
+304,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+305,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,east
+306,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+307,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,wl,east
+308,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,wl,east
+309,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,hl,east
+310,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,pg,r,east
+311,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,east
+312,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,east
+313,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,east
+314,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,r,east
+315,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,pg,r,east
+316,DN040,DISES,Quercus emoryi,e7eb2cce-b999-4521-a4ee-1f10d9ed92d5,-110.668556,31.47880322,NA,9,np,so,east
+317,DN048,DISES,Quercus emoryi,d8709619-f24e-4e8f-b07c-a3b4f609c887,-110.7990708,31.62663672,NA,28,NA,NA,NA
+318,DN070,DISES,Quercus emoryi,5d3162bc-5c7a-4fe5-8c8d-dd02c1e3d5aa,-110.6507871,31.61861342,NA,9,NA,NA,NA
+319,DN008,DISES,Quercus emoryi,ecd36fa1-750c-4669-a2d7-f7eabcbba49d,-110.4741856,32.11433851,plot center near dispersed campground,26,NA,NA,NA
+320,DN044,DISES,Quercus emoryi,7cdaae2b-96c6-4a43-b0e8-b09e9bbb07e2,-110.4639096,31.46689093,NA,9,NA,NA,NA
+321,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+322,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,north
+323,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+324,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+325,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,north
+326,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,north
+327,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pf,hl,north
+328,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+329,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,north
+330,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,so,north
+331,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+332,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+333,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+334,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,so,north
+335,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,north
+336,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,so,north
+337,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,so,north
+338,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+339,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,north
+340,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,north
+341,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,so,north
+342,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,north
+343,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,so,north
+344,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,so,north
+345,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,north
+346,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pf,so,east
+347,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,east
+348,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+349,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+350,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+351,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,east
+352,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,wl,east
+353,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+354,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,r,east
+355,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,east
+356,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,east
+357,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+358,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+359,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+360,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+361,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,r,east
+362,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,r,east
+363,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,so,east
+364,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+365,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,hl,east
+366,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pf,so,east
+367,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+368,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,hl,east
+369,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,np,r,east
+370,DN056,DISES,Quercus emoryi,01f60ecc-6ae2-406a-82b9-97362d6a80dd,-110.4419662,31.3960814,NA,9,pg,so,east
+371,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,pf,m l bc,north
+372,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,pg,wl,north
+373,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+374,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+375,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,pf,hl,north
+376,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+377,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+378,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,t,hl,north
+379,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,wl,north
+380,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+381,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+382,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,wl,north
+383,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,t,hl,north
+384,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,t,hl,north
+385,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,t,hl,north
+386,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,t,hl,north
+387,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,t,hl,north
+388,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,t,hl,north
+389,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+390,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,pf,hl,north
+391,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+392,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,t,hl,north
+393,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+394,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+395,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,north
+396,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,ag,t,east
+397,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+398,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+399,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+400,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+401,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+402,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+403,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+404,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,wl,east
+405,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+406,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+407,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+408,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,r,east
+409,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,m l bc,east
+410,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+411,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,ag,hl,east
+412,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,m l bc,east
+413,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+414,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+415,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+416,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,wl,east
+417,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,wl,east
+418,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+419,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+420,DN032,DISES,Quercus emoryi,c01d519d-887e-41bf-9c9a-56d65da9a8fa,-110.3864607,31.5196845,NA,1,np,hl,east
+421,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+422,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+423,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+424,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+425,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+426,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,north
+427,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+428,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,wl,north
+429,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+430,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+431,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,wl,north
+432,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,wl,north
+433,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,af,wl,north
+434,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,wl,north
+435,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+436,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,north
+437,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,north
+438,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+439,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pf,hl,north
+440,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,r,north
+441,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,r,north
+442,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+443,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,north
+444,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,north
+445,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,north
+446,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,br,east
+447,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,br,east
+448,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+449,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+450,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+451,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+452,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,pg,east
+453,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,r,east
+454,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,so,east
+455,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+456,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,east
+457,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+458,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,pg,east
+459,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,so,east
+460,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,so,east
+461,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,br,east
+462,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,br,east
+463,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,br,east
+464,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,br,east
+465,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,east
+466,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+467,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+468,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,east
+469,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,pg,hl,east
+470,92,NOAA,Quercus emoryi,0ecc1ca5-310c-482b-bada-ad3938a507a8,-110.4226715,31.5550773,NA,1,np,hl,east
+471,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,north
+472,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,su,hl,north
+473,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,su,hl,north
+474,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,su,hl,north
+475,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,t,r,north
+476,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,r,north
+477,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,north
+478,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,r,north
+479,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,r,north
+480,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,r,north
+481,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,r,north
+482,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,r,north
+483,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,north
+484,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,north
+485,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,hl,north
+486,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,r,north
+487,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,r,north
+488,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,r,north
+489,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,north
+490,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,so,north
+491,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,su,r,north
+492,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,su,hl,north
+493,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,su,hl,north
+494,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,north
+495,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,r,north
+496,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+497,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+498,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,hl,east
+499,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+500,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,hl,east
+501,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+502,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+503,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+504,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+505,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,t,hl,east
+506,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+507,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+508,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,hl,east
+509,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,hl,east
+510,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,hl,east
+511,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,so,east
+512,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+513,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,so,east
+514,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+515,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+516,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+517,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+518,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,pg,hl,east
+519,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,su,hl,east
+520,DN064,DISES,Quercus emoryi,ddb38a98-71f4-48dd-9f56-315bd1999875,-110.9193706,31.67644823,NA,28,np,r,east
+521,DN052,DISES,Quercus emoryi,3675ad3c-5042-4538-aa97-d0e6a911aee4,-111.1890033,31.46616417,NA,28,NA,NA,NA
+522,DN012,DISES,Quercus emoryi,518320bf-4330-4127-a469-7a4c972dfb5e,-110.5358349,31.39439519,NA,9,NA,NA,NA
+523,DN028,DISES,Quercus emoryi,c86e55f6-c3cf-454a-b4d4-4681e6f1dcf2,-110.5489302,31.44358341,NA,9,NA,NA,NA
+524,NOAA088,NOAA,Quercus emoryi,8df79fe9-3ada-44ba-9dc4-a073a14046f1,-110.3565054,31.40264184,NA,9,NA,NA,NA
+525,NOAA095,NOAA,Quercus emoryi,f3648a25-717c-4cac-a022-53202e672124,-110.4019802,31.4483339,NA,9,NA,NA,NA
+526,NOAA086,NOAA,Quercus emoryi,dae8a22d-2a19-45a3-bead-cc0f5efdfd8e,-110.0153583,31.92429163,NA,11,NA,NA,NA
+527,DN009,DISES,Quercus emoryi,2a01b36c-4dfe-45e7-9f7d-86849809239a,-110.0156734,31.87234992,NA,11,NA,NA,NA
+528,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,wl,north
+529,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,north
+530,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,r,north
+531,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,wl,north
+532,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,north
+533,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,north
+534,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pg,hl,north
+535,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pg,r,north
+536,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,north
+537,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pf,hl,north
+538,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pf,hl,north
+539,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,north
+540,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,north
+541,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,north
+542,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,north
+543,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,north
+544,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,north
+545,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,north
+546,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,north
+547,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pg,hl,north
+548,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,r,north
+549,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,r,north
+550,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pg,hl,north
+551,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pf,hl,north
+552,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,north
+553,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+554,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+555,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+556,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+557,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+558,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,east
+559,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,hl,east
+560,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pg,hl,east
+561,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,wl,east
+562,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+563,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,wl,east
+564,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+565,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+566,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,wl,east
+567,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+568,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+569,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pf,hl,east
+570,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,wl,east
+571,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,hl,east
+572,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,r,east
+573,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,r,east
+574,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,np,wl,east
+575,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pg,r,east
+576,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,s,so,east
+577,NOAA081,NOAA,Quercus emoryi,586584b3-58fa-4247-9da2-394c6beb24a4,-110.2429535,31.38414548,NA,9,pg,hl,east
+578,NOAA094,NOAA,Quercus emoryi,e17d50fe-b495-43e8-ba05-61414a27ff9a,-110.8784709,31.72557852,NA,28,NA,NA,NA
+579,DN036,DISES,Quercus emoryi,3fbf87e8-5c46-4818-848c-1af1a7675b63,-111.1507482,31.37738213,NA,28,NA,NA,NA
+580,DN036,DISES,Quercus emoryi,de4b7414-0c6f-4e8f-9941-12854b8bc096,-111.1507482,31.37738213,NA,28,NA,NA,NA
+581,DN004,DISES,Quercus emoryi,b306426d-d211-4050-a6ac-4031d92d279f,-110.7178129,32.33973705,NA,26,NA,NA,NA
+582,NOAA099,NOAA,Quercus emoryi,e8fe8952-82e8-4595-aeaf-e804692b0f8d,-110.9555647,33.92847319,NA,8,NA,NA,NA
+583,DN030,DISES,Quercus emoryi,b012c5c3-a6eb-48b8-af7e-4ed1f1ad5fad,-111.0202696,34.1385844,NA,8,NA,NA,NA
+584,DN014,DISES,Quercus emoryi,529ec2a4-d7c8-494a-afff-9a1f844d05a2,-111.0480383,34.08508563,NA,8,NA,NA,NA
+585,DN025,DISES,Quercus emoryi,6d191994-fb8c-448f-b0b6-47e65cf56192,-109.3400683,31.97050767,NA,11,NA,NA,NA
+586,DN061,DISES,Quercus emoryi,7642d2a0-f83c-483e-abfb-d91ee97f8048,-109.3626563,31.75783823,NA,11,NA,NA,NA
+587,DN029,DISES,Quercus emoryi,7a9d8933-4545-44c1-b3d1-6250ec81d227,-109.3969698,31.74923217,NA,11,NA,NA,NA
+588,DN045,DISES,Quercus emoryi,de9c0548-81bb-44eb-bb58-5cc4281e29d6,-109.3344533,31.76522975,"continuation from 6/23 survey event on tablet A, needs to be merged",11,NA,NA,NA
+589,DN021,DISES,Quercus emoryi,28a1bd26-2995-4fa4-9380-d327fcd62d91,-110.0665334,32.77633113,subsampled for seedlings. 2.8 meter radius,19,NA,NA,NA
+590,DC072,DISES,Quercus emoryi,67f0cc4c-3b21-40b4-b04f-d4c2b5c56ff0,-111.3397202,34.28507625,NA,7,NA,NA,NA
+591,NOAA091,NOAA,Quercus emoryi,929b6546-eacb-4fb4-9eac-1126e510ecd3,-111.5308042,34.39135828,NA,7,NA,NA,NA
+592,DC080,DISES,Quercus emoryi,ac3ff405-a3f0-4000-ac2e-80eca66191a8,-111.8264596,34.91021743,NA,12,NA,NA,NA
+593,DN041,DISES,Quercus emoryi,269f63b5-bf20-42dc-b9dd-84b3a9a32119,-109.2305769,31.92105545,NA,11,NA,NA,NA
+594,DN067,DISES,Quercus emoryi,bd108270-18eb-4c65-b49d-04a2f638b377,-109.3094734,31.95287368,NA,11,NA,NA,NA
+595,DN045,DISES,Quercus emoryi,072238f9-06cf-4121-a92c-ef46660fc1b4,-109.3344494,31.76522684,NA,11,NA,NA,NA
+596,DN013,DISES,Quercus emoryi,83a52460-fedc-47f6-b80f-39979e4db31a,-109.0719811,31.48915194,genetics done,11,NA,NA,NA
+597,DN057,DISES,Quercus emoryi,7d79c5c8-5413-4ba5-a77c-db7b9067fdea,-108.9749739,31.52762042,no non-focal trees; genetics taken.. also note that it was very windy on this day,11,NA,NA,NA
+598,DN049,DISES,Quercus emoryi,253f9059-1d29-4f4a-a649-5ca50b1b58fa,-110.2081947,32.50938074,"sub sample protocol used because of >50 seedlings, genetics taken",19,NA,NA,NA
+599,NOAA90,NOAA,Quercus emoryi,5b175afc-0ebe-4e8f-aed1-dddb2efb8923,-109.7935196,32.66377107,NA,19,NA,NA,NA
+600,DN069,DISES,Quercus emoryi,7192879d-6a43-4453-b0df-7472b9ec8d9e,-110.5704761,33.69334828,took genetics,20,NA,NA,NA
+601,NOAA097,NOAA,Quercus emoryi,7ca7fcf8-10e8-48d6-8bde-3338840020c5,-111.1414425,33.97285615,NA,8,NA,NA,NA
+602,DN073,DISES,Quercus emoryi,75cd980c-84dd-4c94-a626-a86be62be48d,-110.9722412,34.07550971,NA,8,NA,NA,NA
+603,DN062,DISES,Quercus emoryi,45c7f9dd-8784-4d25-9363-3142455e4e4f,-110.9678764,34.04567456,NA,8,NA,NA,NA
+604,DN003,DISES,Quercus emoryi,b739b655-045c-4852-86e1-c637a1557253,-109.3640204,33.3084908,"very open area, potentially burned recently?",33,NA,NA,NA
+605,DN007,DISES,Quercus emoryi,dbd5b132-0554-4b76-9f79-659f17d88152,-109.3518017,33.29943537,genetics taken and acorns counted,33,NA,NA,NA
+606,DN035,DISES,Quercus emoryi,037f76fa-6ffb-4f58-b8d0-3654cb2275fa,-109.4744368,33.39006113,NA,33,NA,NA,NA
+607,NOAA096,NOAA,Quercus emoryi,adcba5ea-4121-4f69-ade0-1a3787ba9d31,-109.4839847,33.42563288,NA,33,NA,NA,NA
+608,DN006,DISES,Quercus emoryi,c34eac49-51e0-4805-97aa-f93143a30ed6,-111.5125778,34.42061169,NA,10,NA,NA,NA
+609,DN058,DISES,Quercus emoryi,8cc8cf39-c974-4d01-8421-3cfb3425610c,-111.1884847,33.922045,NA,32,NA,NA,NA
+610,DN046,DISES,Quercus emoryi,c677bfcc-204c-4bf1-b693-64b1e2142625,-111.0569741,33.96229762,NA,8,NA,NA,NA
+611,DN037,DISES,Quercus emoryi,798e6be7-f9e5-47ff-8344-17cf49d84782,-109.0471445,33.10774253,used solo rover; genetics collected,15,NA,NA,NA
+612,DN053,DISES,Quercus emoryi,a73fb07d-d25c-44e2-b1b8-29c1930aa0fa,-109.0975572,33.10453115,solo rover used,33,NA,NA,NA
+613,DN023,DISES,Quercus emoryi,5e027e44-9db2-4dbb-9b40-ff2ab392abdf,-108.9517607,33.38126281,"used solo rover, no genetics",15,NA,NA,NA
+614,NOAA 014,NOAA,Pinus spp,08ef7fe1-851e-4bb0-90f8-be1d0fc2be76,-111.6827581,35.50154249,NA,30,NA,NA,NA
+615,NOAA PP 018,NOAA,Pinus spp,25ef1e81-6e59-48f2-bc29-6761311d31d8,-111.656694,35.49353203,cones observed and branches collected 10/5/23 KN ER,30,NA,NA,NA
+616,NOAA085,NOAA,Quercus emoryi,50e71320-5633-43de-8fef-f1989ba1bea0,-112.5474993,34.61626405,NA,29,NA,NA,NA
+617,DN038,DISES,Quercus emoryi,60e83fb7-64a7-4444-8998-c16908aea496,-112.9514791,34.83135963,genetics and acorns sampled,16,NA,NA,NA
+618,DN065,DISES,Quercus emoryi,a23612d2-2f79-49ba-8d4f-6fba89a14b16,-112.9254718,34.79788227,genetics and acorns sampled,16,NA,NA,NA
+619,DN022,DISES,Quercus emoryi,bc077af7-5918-4eae-ab54-d3c5cad34183,-112.9621091,34.81499932,genetics & acorns sampled,16,NA,NA,NA
+620,DN054,DISES,Quercus emoryi,b2527540-bdd2-4b29-af1f-38dd15717167,-112.5292798,34.55046926,"genetics and acorns sampled, rover not working used base flex as stand alone rover so no base point",29,NA,NA,NA
+621,DC076,DISES,Quercus emoryi,4f9f07b1-7c9f-4c58-863c-8dc062999224,-110.3705234,33.90412182,NA,NA,NA,NA,NA
+622,DC078,DISES,Quercus emoryi,02e53c90-e932-4ac8-a6fd-9d8c28a1a10d,-110.706311,34.0490302,NA,NA,NA,NA,NA
+623,DC077,DISES,Quercus emoryi,2c7d62d4-465d-4aca-99c8-5768c5698787,-110.5081314,34.0087239,NA,NA,NA,NA,NA
+624,DC101,DISES,Quercus emoryi,1f59ea86-24c9-4416-bfcb-fd3ed5a5f7f6,-110.9672478,34.07080844,NA,8,NA,NA,NA
+625,NOAA100,NOAA,Quercus emoryi,6a4e7c9d-bf49-4878-8ad5-d7b8bea12953,-110.9645136,34.22189325,NA,8,NA,NA,NA
+626,NOAA093,NOAA,Quercus emoryi,6a69193a-df2d-48c1-93a8-d81b4328d68f,-112.0690104,34.5789226,acorns sampled (on paper) also so many ants on all tur emorys,34,NA,NA,NA
+627,NOAA089,NOAA,Quercus emoryi,c4aeaa9d-7f09-4723-b4dd-28a20dbbbcc7,-112.3265786,34.3716279,acorns sampl3d,29,NA,NA,NA
+628,DN010,DISES,Quercus emoryi,0ae5ab87-59fc-45b5-85f2-2e78136c4beb,-112.3107449,34.16714783,NA,29,NA,NA,NA
+629,DN026,DISES,Quercus emoryi,57c9b5e3-cd85-464b-aee3-5483ca9b40aa,-112.3385004,34.19722364,"genetics taken, and used paper dstatsheet for first while, but transitioned to the tablet on tree 033",29,NA,NA,NA
+630,DC074,DISES,Quercus emoryi,44247570-a8fc-4dff-a42b-5a823983455d,-111.6891425,34.43340013,genetics sampled,12,NA,NA,NA
+631,DN039,DISES,Quercus emoryi,1f5439dc-48a7-4e85-adb5-188533ee1e63,-112.602749,34.49793891,no genetics taken,29,NA,NA,NA
+632,DN019,DISES,Quercus emoryi,4e3d3170-ed76-4325-8cd4-cfc2d944c9d9,-112.5532368,34.42288863,NA,29,NA,NA,NA
+633,DN031,DISES,Quercus emoryi,c4285cca-e969-4ce6-bade-4b350503cb4b,-112.460291,34.45609327,"used solo rover, site seemed to be hit by some kind of disease. lots of dead trees but regrowth occuring. BISCOG on small trees",29,NA,NA,NA
+634,DC079,DISES,Quercus emoryi,6c80af23-c15d-47a0-a5ae-c77263875d4e,-111.7535578,34.75328251,NA,12,NA,NA,NA
+635,DN051,DISES,Quercus emoryi,b0f0c2d0-ad3e-4bd3-9f74-e4352b39489d,-111.4365369,34.1246589,genetics taken,7,NA,NA,NA
+636,DN042,DISES,Quercus emoryi,3f60a05a-bdf3-47aa-b33c-b123cbad57f8,-110.971195,33.85669278,"genetics taken, took paper data starting with tree 043 due to elf failure",8,NA,NA,NA
+637,DN027,DISES,Quercus emoryi,570f9894-a615-4e35-841e-23304c01b05c,-110.9138164,33.86378945,"genetics taken, and rover just used because base is not working and needs a firmware update also no acorns found on ground, in general younger acorns on trees",8,NA,NA,NA
+638,DN011,DISES,Quercus emoryi,e634c084-1a1d-4559-a3d1-19d0fe30c53e,-111.1974651,34.2529374,NA,7,NA,NA,NA
+639,NOAA084,NOAA,Quercus emoryi,6ddef4ff-90d9-4dfe-9415-29df3ac7de34,-111.3461585,34.37978456,NA,7,NA,NA,NA
+640,DN059,DISES,Quercus emoryi,36f0dbde-b46a-4530-9fdf-9cd16b0a0325,-111.1095313,34.35368721,NA,7,NA,NA,NA
+641,DN055,DISES,Quercus emoryi,8c7b9f3c-3eb6-4cef-a409-4855f56df529,-111.3359858,33.73990906,NA,32,NA,NA,NA
+642,DN063,DISES,Quercus emoryi,a9c82a70-aadf-4b4f-ba22-fd6b45757c3f,-111.4146835,33.92184647,Took genetic samples,32,NA,NA,NA
+643,DN068,DISES,Quercus emoryi,952d86b4-18dd-4f25-a538-b35fc8982bef,-111.4161465,34.35969827,NA,7,NA,NA,NA
+644,NOAA098,NOAA,Quercus emoryi,780aebd2-06a8-4d24-802e-c15913400985,-111.224996,34.21950235,NA,7,NA,NA,NA
+645,NOAA082,NOAA,Quercus emoryi,8bb7d7fe-55f4-4e7d-bb8d-0c67f4ee2218,-111.1021052,34.3621805,NA,7,NA,NA,NA
+646,DN015,DISES,Quercus emoryi,ebe7acf9-a840-4ae1-855a-acba5478f0d6,-110.9837748,34.2886331,genetics taken,7,NA,NA,NA
+647,DN043,DISES,Quercus emoryi,b1c4e192-72d6-4813-a2cf-ac6098ad3829,-111.0135738,34.32307213,NA,7,NA,NA,NA
+648,DN033,DISES,Quercus emoryi,230e0be3-a7ad-4d81-bc4d-57ec5e0a50cc,-110.8811665,34.16504634,NA,8,NA,NA,NA
+649,NOAA002,NOAA,Pseudotsuga menziesii,4463f61a-8d84-481a-bccc-04809d7e20f3,-111.7398436,35.3880177,NA,30,NA,NA,NA
+650,NOAA008,NOAA,Pseudotsuga menziesii,4f60f938-eaa2-4e45-96d7-60d67544390e,-111.6922787,35.38477885,NA,30,NA,NA,NA
+651,NOAA007,NOAA,Pseudotsuga menziesii,f6a00036-9e2b-4682-9893-8f59a1230d07,-111.3946399,34.81280603,NA,10,NA,NA,NA
+652,NOAA010,NOAA,Pseudotsuga menziesii,c457eb26-bdc6-4650-8e34-5bd4911fab58,-111.2262615,34.46556931,NA,NA,np,su,east
+653,NOAA010,NOAA,Pseudotsuga menziesii,c457eb26-bdc6-4650-8e34-5bd4911fab58,-111.2262615,34.46556931,NA,NA,pf,pg,north
+654,NOAA010,NOAA,Pseudotsuga menziesii,c457eb26-bdc6-4650-8e34-5bd4911fab58,-111.2262615,34.46556931,NA,NA,pf,hl,north
+655,NOAA001,NOAA,Pseudotsuga menziesii,bea1aca3-555a-473e-8195-7f2d0a47757b,-111.060318,34.38208601,"green pinecones in notes, brown in field",13,NA,NA,NA
+656,NOAA 004,NOAA,Pseudotsuga menziesii,cb42cdbb-d5f5-4248-a70c-374638280ed6,-111.5309517,34.96578154,NA,30,NA,NA,NA
+657,NOAA009,NOAA,Pseudotsuga menziesii,bbbd9fda-9f1a-4e13-9e10-3488f1da8230,-112.140602,36.38135076,NA,27,NA,NA,NA
+658,NOAA003,NOAA,Pseudotsuga menziesii,c42650bf-134d-4853-b93c-ed057d3100de,-112.1506893,36.46774089,NA,27,NA,NA,NA
+659,NOAA 006,NOAA,Pseudotsuga menziesii,5ea31cfe-c213-4039-89fb-092e59670a5b,-109.4956556,34.01216314,"bad elf set up was being terrible, map is probably funky. cones counted were all brown",23,NA,NA,NA
+660,NOAA005,NOAA,Pseudotsuga menziesii,844c02fc-5a87-4ad8-8fc9-089e7429ee75,-109.5382705,34.1097783,tag numbers start at 13. bad elf accuracy jumps around a lot. lots of green cones buried under trees by squirrels 🐿️,23,NA,NA,NA
+661,NOAAPP024,NOAA,Pinus spp,4d36b5dd-1402-4441-acde-303105b97ebd,-108.1659527,35.4898718,"tp (tan pinecones), many dead trees perhaps from some beetle, reportedly?",NA,NA,NA,NA
+662,NOAA PP 027,NOAA,Pinus spp,d6a7269e-0a47-4e63-8331-bb65193d8cff,-107.942363,35.55283589,NA,NA,NA,NA,NA
+663,NOAAPP028,NOAA,Pinus spp,8ad6ff91-6809-43b2-a462-da6e1952b722,-107.9297591,35.56234969,started at tree 017,NA,NA,NA,NA
+664,NOAA PP 030,NOAA,Pinus spp,044666a4-d651-4fa0-b7e0-be3551a97835,-108.2538692,35.65590021,NA,NA,NA,NA,NA
+665,NOAA_PP006,NOAA,Pinus spp,e4da3a0b-732f-41d0-be76-4b2b6d0c5951,-111.4043525,35.26113031,NA,30,NA,NA,NA
+666,NOAAPP023,NOAA,Pinus spp,87cb3bdc-1d66-40fa-a99f-074409a093c9,-108.1605364,35.49090802,NA,NA,NA,NA,NA
+667,PP 025,NOAA,Pinus spp,138cab6e-b5d8-4460-b05a-03d957d131ce,-108.177403,35.48217921,"several pinyon seed harvesters present at and near site, may impact seed numbers",NA,NA,NA,NA
+668,NOAA PP026,NOAA,Pinus spp,a75a601b-fcef-4417-9a54-639e28d75b09,-107.9713017,35.55927941,NA,NA,NA,NA,NA
+669,NOAA PP 029,NOAA,Pinus spp,a0e0139d-fdf4-455c-848b-75820eae9b0f,-108.247501,35.6434493,NA,NA,NA,NA,NA
+670,NOAA PP 012,NOAA,Pinus spp,9d91c38c-409d-4168-a6a3-ddecb13949f6,-112.4039144,35.09709258,NA,17,NA,NA,NA
+671,NOAA PP 008,NOAA,Pinus spp,4ac66ea0-0344-406a-af0c-4d6606d46820,-112.1917357,34.92984472,NA,16,NA,NA,NA
+672,NOAA PP 001,NOAA,Pinus spp,d05ff873-1a4e-47d1-a5a0-f936ba9c0c4b,-112.4702614,35.36910682,NA,17,NA,NA,NA
+673,NOAA PP 022,NOAA,Pinus spp,c02ba4c9-cb91-41bf-b991-972ab936ffe9,-112.5329111,35.39507707,NA,17,NA,NA,NA
+674,NOAA PP 016,NOAA,Pinus spp,a1636fa8-7ca1-4a0e-82e3-3297e3aaee45,-110.9321341,34.67917281,NA,13,NA,NA,NA
+675,NOAA PP 010,NOAA,Pinus spp,5176381d-1611-45e7-a6ad-ad6b7161f13f,-110.9319307,34.62472134,NA,13,NA,NA,NA
+676,NOAA PP 004,NOAA,Pinus spp,3a79a373-11d2-4716-a74f-2bf32765049e,-111.537037,35.4651584,NA,30,NA,NA,NA
+677,NOAA PP 002,NOAA,Pinus spp,55ce5c37-44a3-4383-9322-02877b024249,-112.0075904,35.57929275,NA,17,NA,NA,NA
+678,NOAA PP 013,NOAA,Pinus spp,a1b5e6b7-08f3-49c3-a10c-c0406986eb00,-111.3454018,35.30881669,NA,30,NA,NA,NA
+679,NOAA PP 009,NOAA,Pinus spp,549df384-f1d6-4230-8f7e-2d38f3f2a662,-111.4020453,35.13790658,NA,30,NA,NA,NA
+680,NOAA PP 020,NOAA,Pinus spp,806ec6a8-7c37-408b-a23d-30b55b604b65,-112.0272737,35.78206469,many fallen dead trees in plot,6,NA,NA,NA
+681,NOAA PP 003,NOAA,Pinus spp,12245420-1a41-4a9b-8b60-ed5f28d92d94,-112.0029249,35.8176823,NA,6,NA,NA,NA
